@@ -17,8 +17,8 @@
 - [X] D
 - [X] Elixir
 - [X] Go
-- [ ] Nim
-- [ ] PHP
-- [ ] Ruby
-- [ ] Scala
-- [ ] Swift
+- [X] Nim
+- [X] PHP
+- [X] Ruby
+- [X] Scala
+- [X] Swift
