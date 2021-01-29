@@ -1,7 +1,24 @@
 # Todo
-- [ ] C
-- [ ] Assembly
-- [ ] Java
-- [ ] Rust
+- [X] C
+- [X] Assembly
+- [X] Java
+- [X] C++
+- [X] C#
+- [X] F#
+- [X] JavaScript
+- [X] TypeScript
+- [X] Python
+- [X] VisualBasic
+- [X] Rust
 - [ ] Dart
 - [ ] Julia
+- [ ] Clojure
+- [X] Crystal
+- [X] D
+- [X] Elixir
+- [X] Go
+- [ ] Nim
+- [ ] PHP
+- [ ] Ruby
+- [ ] Scala
+- [ ] Swift
