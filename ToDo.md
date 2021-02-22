@@ -22,3 +22,4 @@
 - [X] Ruby
 - [X] Scala
 - [X] Swift
+- [X] Kotlin
